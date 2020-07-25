@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda&family=Michroma&display=swap');
+h1 {
+    color : black;
+    font-family: 'Michroma', sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+
+}
+a {
+    color : black;
+    text-decoration : none;
+}
+body {
+    display : grid; 
+    grid-template-columns: 1fr 1fr ;
+    font-family: Arial;
+}
+.foto {
+    width : 100%;
+    Height : 100%;
+}
+html{
+    height: 100%;
+}
+body{
+    height: 100%;
+    margin: 0px;
+    font-size: 20px;
+    cursor: url(https://cdn.custom-cursor.com/db/pointer/32/Mickey_Mouse_Pointer.png) , pointer!important;
+}
+.columna_1{
+    padding: 150px 200px;
+}
+#columna_1{
+    background: white;
+
+}
+.logo {
+    width : 60px;
+}
+nav{
+    display : grid; 
+    grid-template-columns:auto auto auto 1fr;
+    align-content: center;
+}
+nav a{
+    padding-left: 15px;
+    padding-right: 15px;
+    display: flex;
+    align-items: center;
+}
+p {
+    max-width: 400px;
+}

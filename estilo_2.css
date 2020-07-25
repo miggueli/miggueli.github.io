@@ -1,0 +1,13 @@
+button{
+    color : white;
+    background : red;
+    padding : 15px;
+    border-radius : 20px;
+    border : 0px;
+    font-size: 17px;
+}
+.icon img{
+    width : 20px;
+    margin-left: 30px;
+
+}
